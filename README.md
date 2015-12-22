@@ -1,4 +1,4 @@
-# algorithms
+# Algorithms
 
 [dijkstra](pathfinding/dijkstra.h)
 
